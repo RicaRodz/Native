@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Native",
-    "slug": "Native",
+    "slug": "native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "564fbe66-e1b0-4060-aac8-6ccc3c0f36d6"
+      }
+    },
+    "owner": "ricardo252002"
   }
 }
